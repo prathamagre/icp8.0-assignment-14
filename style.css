@@ -8,7 +8,10 @@
     margin: 20px;
     box-shadow: 0 0 20px 5px #808080;
 }
-
+@font-face {
+    font-family: woody;
+    src: url(./BrownieStencil-8O8MJ.ttf);
+}
 .box:hover {
     box-shadow: 0 0 20px 5px #202020;
     transition: 0.5s;
