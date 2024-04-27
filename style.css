@@ -1,7 +1,7 @@
 .box {
     height: 500px;
     width: 300px;
-    background-color: #d4c3c3;
+    background-color: #d7cdcd;
     border: solid #D37676;
     border-radius: 10px;
     padding: ;
@@ -16,6 +16,7 @@
 
 .text {
     text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .btn {
@@ -23,6 +24,7 @@
     background-color: #D37676;
     color: white;
     font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: none;
     padding: 10px;
     margin-top: 9px;
@@ -44,4 +46,5 @@ img {
     height: 70%;
     width: 100%;
     border-bottom: solid #D37676;
+    border-radius: 9.5px 9.5px 0 0;
 }
